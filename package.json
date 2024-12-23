@@ -11,6 +11,7 @@
     "keywords": [],
     "author": "xianort <xianort99@gmail.com> (https://www.frontendmentor.io/profile/xianort)",
     "license": "MIT",
+    "homepage": "https://github.com/xianort/social-links-profile",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/xianort/social-links-profile.git"
@@ -22,4 +23,3 @@
         "tailwindcss": "^3.4.17"
     }
 }
-
