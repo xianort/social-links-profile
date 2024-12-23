@@ -15,5 +15,20 @@ export default {
         fontFamily: {
             sans: ["Inter", "InterStatic", "sans-serif"],
         },
+        keyframes: {
+            intro: {
+                from: {
+                    transform: "scale(0.96)",
+                    opacity: "0",
+                },
+                to: {
+                    transform: "scale(1)",
+                    opacity: "1",
+                },
+            },
+        },
+        animation: {
+            intro: "intro 200ms ease-out 300ms backwards",
+        },
     },
 } satisfies Config;
