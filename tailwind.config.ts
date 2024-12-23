@@ -12,5 +12,8 @@ export default {
             white: "hsl(0, 0%, 100%)",
             green: "hsl(75, 94%, 57%)",
         },
+        fontFamily: {
+            sans: ["Inter", "InterStatic", "sans-serif"],
+        },
     },
 } satisfies Config;
