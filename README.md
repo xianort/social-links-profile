@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/xianort/social-links-profile)
-- [Live site URL](https://jolly-kringle-948e2e.netlify.app/)
+- [Solution](https://github.com/xianort/social-links-profile)
+- [Live site](https://jolly-kringle-948e2e.netlify.app/)
 
 ## My process
 
